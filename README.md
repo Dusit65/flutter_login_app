@@ -1,16 +1,25 @@
 # flutter_login_app
 
-A new Flutter project.
+Created By : Dusit Pakdeekunakorn DTU-SAU
 
-## Getting Started
+## Splash Screen
+<image src="https://github.com/Dusit65/travel_sau_project/blob/main/spsrc.jpg" width="150px">
 
-This project is a starting point for a Flutter application.
+## Login
 
-A few resources to get you started if this is your first Flutter project:
+<image src="https://github.com/Dusit65/travel_sau_project/blob/main/login.jpg" width="150px">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Signup
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<image src="https://github.com/Dusit65/travel_sau_project/blob/main/signup.jpg" width="150px">
+
+## Screen UI
+
+<image src="https://github.com/Dusit65/travel_sau_project/blob/main/ui1.jpg" width="150px">
+  
+<image src="https://github.com/Dusit65/travel_sau_project/blob/main/addtravel.jpg" width="150px">
+
+
+
+
+
